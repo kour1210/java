@@ -3,7 +3,6 @@ package car.example.setter_injection;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-import java.sql.SQLOutput;
 
 public class App {
     public static void main(String[] args) {
